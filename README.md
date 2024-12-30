@@ -1,0 +1,2 @@
+# DimplesY's nvim config
+
